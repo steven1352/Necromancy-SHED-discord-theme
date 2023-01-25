@@ -194,10 +194,9 @@
   height: 240px;
 }
 
-/* --------------font change attempt-----------*/
-@font-face {
-    font-family: Quicksand;
-    src: url(Quicksand.ttf);
+/* --------------body changes attempt-----------*/
+body {
+    font-family: Quicksand.ttf;
 }
 /*----------Scanlines Code Block-------------*/
 body:before {
